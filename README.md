@@ -92,7 +92,7 @@ text
 ## 🔧 Installation (with uv)
 
 1) Clone your repo
-git clone https://github.com/<your-username>/local-qa-agent.git
+git clone https://github.com/AnkurIbySarkar/Local-Document-QA-Agent/master
 cd local-qa-agent
 
 2) Create the environment and install deps
@@ -140,3 +140,4 @@ Then open the printed local URL, upload/select your PDF(s), and ask questions li
 - Slow answers → reduce top_k docs, lower chunk size, or try a lighter model via Ollama.
 
 ---
+
