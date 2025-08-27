@@ -1,4 +1,4 @@
-# 🦙📚 Local QA Agent for Documents
+# 🦙 Local QA Agent for Documents
 
 Chat with your own documents — thesis papers, PDFs, research articles, notes, even images — fully local on your laptop.
 
@@ -11,7 +11,7 @@ Everything runs offline and your files stay private.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Ask natural questions about long PDFs (e.g., “What methods are used in Chapter 3?”)
 - Works with multiple files and large docs
@@ -89,10 +89,10 @@ text
 
 ---
 
-## 🔧 Installation (with uv)
+## Installation (with uv)
 
 1) Clone your repo
-git clone https://github.com/AnkurIbySarkar/Local-Document-QA-Agent/master
+git clone https://github.com/AnkurIbySarkar/Local-Document-QA-Agent/tree/master
 cd local-qa-agent
 
 2) Create the environment and install deps
@@ -140,4 +140,5 @@ Then open the printed local URL, upload/select your PDF(s), and ask questions li
 - Slow answers → reduce top_k docs, lower chunk size, or try a lighter model via Ollama.
 
 ---
+
 
