@@ -1,0 +1,5 @@
+MODEL_NAME = "llama3.2-vision"
+EMBEDDING_MODEL = "mxbai-embed-large"
+DB_LOCATION = "./chroma_langchain_db"
+COLLECTION_NAME = "restaurant_reviews"
+CSV_FILE = "realistic_restaurant_reviews.csv"
